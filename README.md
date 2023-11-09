@@ -36,7 +36,7 @@ You can customize the script by modifying the following variables in exchange_ra
 
 `end_date`: End date for exchange rate retrieval (default: current date).
 
-###Files
+### Files
 
 `exchange_rate_fetcher.py`: Main Python script.
 
@@ -52,6 +52,6 @@ You can customize the script by modifying the following variables in exchange_ra
 
 `pandas`: Data manipulation library.
 
-###License
+### License
 
 This project is licensed under the MIT License.
