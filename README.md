@@ -1,4 +1,4 @@
-# Exchange Rate Fetcher
+# NBP EUR/PLN Exchange Rate Fetcher
 
 ## Overview
 
