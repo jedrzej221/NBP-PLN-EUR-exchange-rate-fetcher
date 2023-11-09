@@ -43,8 +43,8 @@ def save_to_excel(rates):
 
 
 if __name__ == '__main__':
-    start_date = '2023-01-01'
-    end_date = datetime.now().strftime("%Y-%m-%d")
+    start_date = '2023-01-01'# Set the start date for exchange rate retrieval
+    end_date = datetime.now().strftime("%Y-%m-%d") # Set the end date for exchange rate retrieval to the current date
 
     exchange_rates = get_exchange_rate(start_date, end_date)
 
